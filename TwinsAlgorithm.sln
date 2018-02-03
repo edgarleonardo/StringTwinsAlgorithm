@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinsAlgorithm", "TwinsAlgorithm\TwinsAlgorithm.csproj", "{F626DB7F-B9AA-4DA0-BD50-623365A79DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F626DB7F-B9AA-4DA0-BD50-623365A79DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F626DB7F-B9AA-4DA0-BD50-623365A79DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F626DB7F-B9AA-4DA0-BD50-623365A79DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F626DB7F-B9AA-4DA0-BD50-623365A79DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0F3B0C-4490-4B1C-9721-51439EB740EB}
+	EndGlobalSection
+EndGlobal
